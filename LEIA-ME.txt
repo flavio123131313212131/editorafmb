@@ -1,0 +1,19 @@
+CAPAS DOS LIVROS — FMB EDITORA
+
+Envie a pasta inteira chamada "capas-livros-fmb" para o seu repositório do GitHub.
+
+Arquivos:
+- direito-administrativo.jpg
+- direito-ambiental.jpg
+- direito-civil-contratos.jpg
+- direito-civil-direito-das-coisas.jpg
+- direito-civil-familia.jpg
+- direito-civil-lei-introducao-parte-geral.jpg
+- direito-civil-obrigacoes.jpg
+- direito-civil-responsabilidade-civil.jpg
+- direito-civil-sucessoes.jpg
+- direito-processual-civil.jpg
+
+Observação:
+As capas de Direito Ambiental e Obrigações foram recortadas do catálogo enviado,
+por isso têm resolução menor que as demais.
